@@ -1,0 +1,11 @@
+ID,Name,Age,Score,Height,Group
+1,Alice,23,85,165,A
+2,Bob,25,90,170,B
+3,Charlie,22,78,168,A
+4,David,,88,172,B
+5,Eva,24,92,160,A
+6,Frank,26,75,175,B
+7,Grace,23,,162,A
+8,Hannah,25,85,169,B
+9,Ian,24,90,171,A
+10,Jane,22,88,,B
